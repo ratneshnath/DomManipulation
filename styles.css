@@ -1,0 +1,35 @@
+.heading{
+    font-weight: bold;
+    margin-left: 515px;
+    margin-right: 547px;
+    border-style:groove;
+    background-color: yellowgreen;
+    border-radius: 2px;
+    border-width: 1px;
+    
+}
+#counter{
+    margin-left: 620px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    font-weight: bold;
+    margin-right: 650px;
+    border-style: groove;
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-inline-start:7px;
+    background-color:aqua;
+    border-width: 1px;
+}
+#increase{
+    margin-right: 20px;
+    margin-left: 550px;
+    margin-top: 15px;
+    background-color: blue;
+    border-style: groove;
+}
+#decrease{
+    background-color: Red;
+    border-style: groove;
+    border-width: 1px;
+}
